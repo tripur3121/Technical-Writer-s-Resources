@@ -4,6 +4,7 @@ This Repository contains numerous resources that are valuable for technical writ
 <h1> Blog Writing Jobs </h1>
 
 1)  [Content Turbine](https://www.contentturbine.com/)
+2)  [DRAFT.DEV](https://draft.dev/)
 
 
 
