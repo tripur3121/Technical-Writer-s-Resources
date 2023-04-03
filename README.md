@@ -8,6 +8,7 @@ This Repository contains numerous resources that are valuable for technical writ
 3)  [DigitalOcean](https://www.digitalocean.com/)
 4)  [Cohesive](https://cohesive.so/)
 5)  [SigNoz](https://signoz.io/)
+6)  [Figment](https://www.figment.io/)
 
 <!-- Footer -->
 <img src="https://imgur.com/rilHVxA.png"/>
