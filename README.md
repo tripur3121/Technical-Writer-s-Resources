@@ -10,6 +10,7 @@ This Repository contains numerous resources that are valuable for technical writ
 5)  [SigNoz](https://signoz.io/)
 6)  [Figment](https://www.figment.io/)
 7)  [ContentLab](https://contentlab.com/)
+8)  [Neptune.ai](https://neptune.ai/jobs/technical-writer)
 
 <!-- Footer -->
 <img src="https://imgur.com/rilHVxA.png"/>
